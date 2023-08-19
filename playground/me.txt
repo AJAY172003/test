@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ajay Rawat
+Skills: HTML, CSS, JS, ReactJS,mongodb,figma
+Email: sumitsrawat2003@gmail.com
+{{/user}}
